@@ -15,7 +15,7 @@ import java.util.TreeSet;
  * @author Pop Madalin-Emilian
  */
 public class Non_Dupicate_Letter {
-    //function that returns a list of the letters that don't repet in a string array.Time complexity=2*N;
+    //function that returns a list of the letters that don't repet in a string array.Time complexity=N+N;
     public Set<String> NDL(String [] array)
     {
         Map<String,Integer> letters=new TreeMap<>();//map that has as keys the letters and as value the number of appereances in the array
