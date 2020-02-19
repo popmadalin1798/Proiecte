@@ -5,6 +5,8 @@
  */
 package Non_Dupicate_Letters;
 
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
@@ -18,8 +20,8 @@ public class Non_Dupicate_Letter {
     //function that returns a list of the letters that don't repet in a string array.Time complexity=N+N;
     public Set<String> NDL(String [] array)
     {
-        Map<String,Integer> letters=new TreeMap<>();//map that has as keys the letters and as value the number of appereances in the array
-        Set<String> one_letter=new TreeSet<>();//set that retains the letters that don't repeat
+        Map<String,Integer> letters=new HashMap<>();//map that has as keys the letters and as value the number of appereances in the array
+        Set<String> one_letter=new HashSet<>();//set that retains the letters that don't repeat
         for(int i=0;i<array.length;i++)//for loop for going thorugh the array
         {
             int n=0;//counter for the number of apperances
