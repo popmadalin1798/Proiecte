@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1547796837 source:c:\users\madalin\desktop\proiect poo p\proiect\main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	"Bancomat.h"
+
+1547807441 source:c:\users\madalin\desktop\proiect poo p\proiect\functii_bancomat.cpp
+	"Bancomat.h"
+	"Card.h"
+	<stdio.h>
+
+1547711806 c:\users\madalin\desktop\proiect poo p\proiect\bancomat.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<string>
+	<sstream>
+	<conio.h>
+	<winable.h>
+	<time.h>
+	<ctype.h>
+
+1547637205 source:c:\users\madalin\desktop\proiect poo p\proiect\src\persoana.cpp
+	"Persoana.h"
+
+1547637237 c:\users\madalin\desktop\proiect poo p\proiect\include\persoana.h
+	<string>
+	<fstream>
+	<iostream>
+
+1547640158 source:c:\users\madalin\desktop\proiect poo p\proiect\persoana.cpp
+	"Persoana.h"
+
+1547640798 c:\users\madalin\desktop\proiect poo p\proiect\persoana.h
+	<string>
+	<fstream>
+	<iostream>
+
+1547653135 source:c:\users\madalin\desktop\proiect poo p\proiect\card.cpp
+	"Card.h"
+
+1547651010 c:\users\madalin\desktop\proiect poo p\proiect\card.h
+	<iostream>
+	"Persoana.h"
+	<fstream>
+	<string>
+	<windows.h>
+
+1547656735 source:c:\users\madalin\desktop\proiect poo p\proiect 1\card.cpp
+	"Card.h"
+
+1547654610 c:\users\madalin\desktop\proiect poo p\proiect 1\card.h
+	<iostream>
+	"Persoana.h"
+	<fstream>
+	<string>
+	<windows.h>
+
+1547644398 c:\users\madalin\desktop\proiect poo p\proiect 1\persoana.h
+	<string>
+	<fstream>
+	<iostream>
+
+1547813354 source:c:\users\madalin\desktop\proiect poo p\proiect 1\functii_bancomat.cpp
+	"Bancomat.h"
+	"Card.h"
+	<stdio.h>
+
+1547715406 c:\users\madalin\desktop\proiect poo p\proiect 1\bancomat.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<string>
+	<sstream>
+	<conio.h>
+	<winable.h>
+	<time.h>
+	<ctype.h>
+
+1547796837 source:c:\users\madalin\desktop\proiect poo p\proiect 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	"Bancomat.h"
+
+1547643758 source:c:\users\madalin\desktop\proiect poo p\proiect 1\persoana.cpp
+	"Persoana.h"
+
+1556709947 source:c:\users\madalin\desktop\desk\proiect poo p\proiect 1\card.cpp
+	"Card.h"
+
+1547654610 c:\users\madalin\desktop\desk\proiect poo p\proiect 1\card.h
+	<iostream>
+	"Persoana.h"
+	<fstream>
+	<string>
+	<windows.h>
+
+1547644398 c:\users\madalin\desktop\desk\proiect poo p\proiect 1\persoana.h
+	<string>
+	<fstream>
+	<iostream>
+
+1559645824 source:c:\users\madalin\desktop\desk\proiect poo p\proiect 1\functii_bancomat.cpp
+	"Bancomat.h"
+	"Card.h"
+	<stdio.h>
+	<string>
+	<cmath>
+
+1547715406 c:\users\madalin\desktop\desk\proiect poo p\proiect 1\bancomat.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<string>
+	<sstream>
+	<conio.h>
+	<winable.h>
+	<time.h>
+	<ctype.h>
+
+1559650084 source:c:\users\madalin\desktop\desk\proiect poo p\proiect 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	"Bancomat.h"
+	<windows.h>
+	<wincon.h>
+
+1547643758 source:c:\users\madalin\desktop\desk\proiect poo p\proiect 1\persoana.cpp
+	"Persoana.h"
+

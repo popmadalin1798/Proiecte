@@ -1,3 +1,0 @@
-Nr.crt Nume Buc pret(lei)
-1 Algocalmin 20 15
-2 Nurofen 15 26

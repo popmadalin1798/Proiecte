@@ -1,4 +1,0 @@
-Nr Pin Nume si Prenume Sold Stare
-2 4321 Cineva Altcineva 49789 A_
-1 1234 Mireuta Alexandru 12868 F_
-4 4567 Pop Madalin-Emilian 103316 A_

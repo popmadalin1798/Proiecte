@@ -1,7 +1,0 @@
-Nr.crt Nume Buc pret(lei)
-1 Algocalmin 20 15
-3 Paracetamol 30 10
-2 Nurofen 10 20
-4 Strepsils 20 25
-6 Redigest 25 25
-7 Soc 10 25
